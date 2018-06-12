@@ -1,0 +1,10 @@
+GRUPO: 04 - Felipe Lozano & Juan Perea.
+
+EJERCICIO 1
+OBJETIVO: ligas.
+
+EJERCICIO 2
+OBJETIVOS Y RESULTADOS
+1) apruebas(juan). --> true
+2) copian(X). --> juan
+3) apruebas(X), estudian(X). --> ana, maria y pedro
