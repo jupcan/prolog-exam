@@ -1,2 +1,2 @@
-# prolog_exam
+# prolog-exam
 logic lab exam
